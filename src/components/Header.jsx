@@ -42,6 +42,10 @@ const Header = () => {
       <HeaderContainer>
         <Logo>Charan</Logo>
         <Nav>
+          <nav>changes</nav>
+          <nav>changes</nav>
+          <nav>changes</nav>
+          <nav>changes</nav>
           <a href="#about">About</a>
           <a href="#skills">Skills</a>
           <a href="#experience">Experience</a>

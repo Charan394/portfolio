@@ -22,7 +22,7 @@ const SectionText = styled.p`
   line-height: 1.8;
 `;
 
-//lets do it
+//lets 
 
 const aboutVariants = {
   hidden: { opacity: 0, y: 50 },

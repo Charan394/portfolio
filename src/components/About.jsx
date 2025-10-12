@@ -13,6 +13,7 @@ const SectionTitle = styled.h2`
   margin-bottom: 20px;
   color: #00ffcc;
 `;
+//yeah buddy light weight
 
 const SectionText = styled.p`
   max-width: 700px;

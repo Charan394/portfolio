@@ -9,6 +9,8 @@ const FooterContainer = styled.footer`
   font-size: 0.9rem;
 `;
 
+//the change
+
 const Footer = () => {
   return (
     <FooterContainer>
